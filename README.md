@@ -4,12 +4,14 @@ This project demonstrates how to use SQL for analyzing an e-commerce database by
 1. Querying Data
 Filtered data using SELECT, WHERE, and sorted with ORDER BY
 
-Grouped data using GROUP BY to summarize order counts by country
+  Grouped data using GROUP BY to summarize order counts by country
 
 3. Joins
 INNER JOIN to match customers with their orders
-LEFT JOIN to include all customers (even those with no orders)
-RIGHT JOIN (via reversed LEFT JOIN) to list all orders with associated customer details
+
+  LEFT JOIN to include all customers (even those with no orders)
+
+  RIGHT JOIN (via reversed LEFT JOIN) to list all orders with associated customer details
 
 3. Aggregate Functions
 Calculated total revenue (SUM)
