@@ -1,12 +1,12 @@
 # SQL-E-Commerce-Data-Analysis
-#This project demonstrates how to use SQL for analyzing an e-commerce database by performing various operations including filtering, joining, aggregation, subqueries, and view creation.
+This project demonstrates how to use SQL for analyzing an e-commerce database by performing various operations including filtering, joining, aggregation, subqueries, and view creation.
 
-#1. Querying Data
-#Filtered data using SELECT, WHERE, and sorted with ORDER BY
+1. Querying Data
+Filtered data using SELECT, WHERE, and sorted with ORDER BY
 
-#Grouped data using GROUP BY to summarize order counts by country
+Grouped data using GROUP BY to summarize order counts by country
 
-#2. Joins
+2. Joins
 INNER JOIN to match customers with their orders
 
 LEFT JOIN to include all customers (even those with no orders)
