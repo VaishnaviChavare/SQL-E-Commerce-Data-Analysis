@@ -3,6 +3,7 @@ This project demonstrates how to use SQL for analyzing an e-commerce database by
 
 1. Querying Data
 Filtered data using SELECT, WHERE, and sorted with ORDER BY
+
 Grouped data using GROUP BY to summarize order counts by country
 
 3. Joins
